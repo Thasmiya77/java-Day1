@@ -5,7 +5,9 @@ public class Data {
     int age=obj.nextInt();
     float b=obj.nextFloat();
     double c=obj.nextDouble();
+        System.out.println("enter a String:);
     String str1=obj.next();
+        System.out.println("enter str2:")
     String str2=obj.nextLine();
     System.out.println(age);
      System.out.println(b);
@@ -14,3 +16,4 @@ public class Data {
        System.out.println(str2); 
     }
 }
+
